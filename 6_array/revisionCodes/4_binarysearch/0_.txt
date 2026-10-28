@@ -1,0 +1,5 @@
+binary search ka simple funda ye hai ki pehle domain dekho
+ki input kya kya hoskte hai , fir binary search use krke mid ko condition mai daalo
+and kep doing it low high shifts
+
+search space eliminate krne ka point hai bss 
